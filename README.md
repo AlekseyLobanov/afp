@@ -1,2 +1,2 @@
-# afp
-Automated File Processor. Multiple multi-stage pipelines with simple executor.
+# Automated File Processor
+Multiple multi-stage pipelines with simple executor.
